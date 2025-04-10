@@ -20,7 +20,7 @@
   </style>
 </head>
 <body>
-  <h1>ようこそ！動画をお楽しみください</h1>
+  <h1>凱友伝 旧二.五章 一話</h1>
   
   <video controls>
     <source src="二次創作Ｎｏ．1_2024_11_04_03_39_02(1).mp4" type="video/mp4">
